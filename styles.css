@@ -10,3 +10,18 @@ p{
 h2{
     display: inline;
 }
+
+#black-tshirt{
+    width: 130px;
+    height: 180px;
+}
+
+#army-shirt{
+    width: 160px;
+    height: 200px;
+}
+
+#wallpaper{
+    width: 350px;
+    height: 200px;
+}
